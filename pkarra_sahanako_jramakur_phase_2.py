@@ -1,5 +1,5 @@
 import pandas as pd
-file_path = 'C:/Users/pkarra/Downloads/heart_2022_with_nans.csv'
+file_path = 'dataset_path'
 
 # Read the CSV file into a pandas DataFrame
 data = pd.read_csv(file_path)
