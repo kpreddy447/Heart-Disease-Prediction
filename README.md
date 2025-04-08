@@ -93,9 +93,3 @@ Once the script is executed, the following outputs will be available:
 - **Confusion Matrix**: Visual representation of model performance in terms of true positive, false positive, true negative, and false negative predictions.
 - **ROC Curve**: Graph showing the true positive rate vs. false positive rate for each model.
 - **Precision-Recall Curve**: Evaluation of the models' precision and recall across different thresholds.
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to further customize the README to match your project’s specific requirements and guidelines. This version provides a professional structure, making it easy for collaborators or reviewers to understand the project’s goals, setup, usage, and results.
